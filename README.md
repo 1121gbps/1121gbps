@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Hi There😁</h1>
+My name is [1121gbps](https://github.com/1121gbps/). I'm a vibe coder btw..
 
 <!--
 **1121gbps/1121gbps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
